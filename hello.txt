@@ -1,7 +1,3 @@
-hello Clannad violet
-hello Clannad apricity
-hello Clannad evergarden
-hello Clannad evergarden
-Clannad
-add by git-lzw
-
+# Hello！violet-ACM
+Three gays here：
+violet_zpx violet_lzw violet_wcl
